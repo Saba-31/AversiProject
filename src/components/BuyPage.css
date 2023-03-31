@@ -1,0 +1,99 @@
+.buyPageBody {
+  width: 100%;
+  height: 1200px;
+  background-color: #f7f6f5;
+}
+.buyPageHead {
+  width: 100%;
+  background-color: #fff;
+  height: 40px;
+}
+
+.sold-content {
+  display: flex;
+  align-items: center;
+  margin-left: 550px;
+  margin-top: 80px;
+}
+.done-icon {
+  width: 70px;
+  height: 70px;
+  padding-bottom: 35px;
+  padding-right: 25px;
+}
+.icon-border {
+  border: 1px solid;
+  width: 35px;
+  height: 35px;
+  color: #6a6a68;
+}
+.sold-title {
+  margin-left: 30px;
+  font-size: 32px;
+  color: #ea3339;
+  font-weight: 600;
+}
+.thx-sold {
+  margin-top: 50px;
+  font-size: 20px;
+  margin-left: 520px;
+  font-weight: 600;
+}
+.pay-details-text {
+  margin-top: 50px;
+  margin-left: 600px;
+  font-size: 18px;
+  color: #27242c;
+}
+.sold-details {
+  margin-top: 30px;
+  margin-left: 430px;
+  background-color: #fff;
+  width: 570px;
+  height: 170px;
+}
+.payTotalPriceDetails {
+  display: flex;
+  margin-left: 200px;
+  padding-top: 60px;
+}
+.payTotalPriceDetails > p {
+  font-size: 18px;
+}
+.payTotalPriceDetails > span {
+  font-size: 18px;
+  color: #ea3339;
+  margin-left: 10px;
+}
+.payTotalPriceDetails2 {
+  display: flex;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.payTotalPriceDetails2 > p {
+  font-size: 18px;
+}
+.payTotalPriceDetails2 > span {
+  font-size: 18px;
+  color: #ea3339;
+  margin-left: 20px;
+}
+.buy-page-grafiki {
+  display: flex;
+  gap: 20px;
+  margin-top: 500px;
+  margin-left: 80px;
+  color: #7d8078;
+  padding-bottom: 50px;
+  padding-top: 30px;
+}
+.clock-Icon {
+  width: 22px;
+  height: 22px;
+}
+.clock-days {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #7D8078;
+} 

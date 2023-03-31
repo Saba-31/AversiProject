@@ -1,0 +1,15 @@
+.doctor {
+    width: 45px;
+    height: 40px;
+    margin-top: 13px;
+    margin-left: 12px;
+}
+.doctor-border {
+    border: solid 2px;
+    border-color: red;
+    width: 70px;
+    height: 70px;
+    border-radius: 80%;
+    margin-top: 26px;
+    margin-left: 90px
+}

@@ -1,0 +1,30 @@
+.prodCards {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    justify-content: space-around;
+}
+.prodCard {
+    width: 270px;
+    height: 270px;
+    border-radius: 20px;
+    background-color: #fff;
+    margin-top: 20px;
+    box-shadow: 0px 0px 13px 0px rgba(91,91,91,0.75);
+    -webkit-box-shadow: 0px 0px 13px 0px rgba(91,91,91,0.75);
+    -moz-box-shadow: 0px 0px 13px 0px rgba(91,91,91,0.75);
+    cursor: pointer;
+
+}
+.prodImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+}
+.prodTitle {
+    text-align: center;
+    margin-top: 20px;
+    color: #6A6A68;
+    font-size: 20px;
+}

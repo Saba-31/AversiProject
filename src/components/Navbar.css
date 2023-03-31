@@ -1,0 +1,67 @@
+body {
+    background-color: #F4F2F0;
+  }
+  .head {
+    height: 100px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .profile {
+    height: 40px;
+    margin-left: 20px;
+    color: red;
+  }
+  .heart{
+    height: 40px;
+    margin-left: 20px;
+  }
+  .cart {
+    height: 40px;
+    margin-left: 20px;
+  }
+
+  .search {
+    width: 800px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #f4f2f0;
+    border-color: #5f504f14;
+  }
+  .search-bar {
+    align-items: center;
+  }
+  .nav {
+    background-color: #ea3339;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    height: 60px;
+  }
+  
+  .nav a {
+    color: #fff;
+    text-decoration: none;
+    transition: 1s;
+  }
+  
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 18px 60px;
+    transition: 1s;
+  }
+  .nav li:hover {
+    text-decoration: underline;
+    scale: 1.1;
+  }
+  
+  .nav a:hover {
+    text-decoration: underline;
+    scale: 1.1;
+  }
+  
+ 

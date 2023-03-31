@@ -1,0 +1,118 @@
+.prod-det-first-title {
+  font-size: 20px;
+  color: #6a6a68;
+  margin-left: 80px;
+}
+.prod-det-sec-title {
+  font-size: 18px;
+  color: #637e88;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+.prod-details {
+  display: flex;
+  margin-top: 40px;
+}
+.prod-img {
+  width: 650px;
+  height: 485px;
+  margin-left: 100px;
+  object-fit: contain;
+}
+.prod-title {
+  font-size: 22px;
+  color: #6a6a68;
+  margin-left: 80px;
+}
+.prod-price {
+  font-size: 22px;
+  color: #ea3339;
+  margin-left: 80px;
+}
+.prod-price-cont {
+  margin-top: 20px;
+}
+.prod-text {
+  margin-left: 80px;
+  margin-top: 20px;
+}
+.prod-text > p {
+  font-size: 18px;
+  color: #6a6a68;
+  margin-top: 10px;
+}
+.quantity-handler {
+    margin-top: 30px;
+}
+.quantity-handler > select {
+    width: 70px;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 20px;
+    border: 1px solid #ea3339;
+    background: no-repeat;
+    border-radius: 10px;
+}
+.buy-button {
+    margin-top: 120px;
+}
+.buy-button > button {
+    width: 315px;
+    height: 60px;
+    border: 1px solid #ea3339;
+    border-radius: 10px;
+    background: no-repeat;
+    font-size: 20px;
+    cursor: pointer;
+}
+.descri-head {
+    display: flex;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+.descri-head > p {
+    /* padding-right: 20px */
+    margin-right: 20px;
+    background-color: #6a6a68;
+    color: #fff;
+    font-size: 20px;
+    width: 180px;
+    height: 35px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.active-title {
+    margin-right: 20px;
+    background-color: #fff;
+    color: #ea3339;
+    font-size: 20px;
+    width: 180px;
+    height: 35px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.prod-description {
+    width: 1370px;
+    height: 900px;
+    background-color: #fff;
+    margin-left: 100px;
+}
+.prod-description > h4 {
+  font-size: 20px;
+  color: #6A6A68;
+  margin-left: 30px;
+  padding-top: 30px;
+}
+.prod-description > p {
+  font-size: 18px;
+  color: #6A6A68;
+  margin-left: 30px;
+  padding-top: 30px;
+  letter-spacing: 1px;
+  line-height: 1.5;
+}

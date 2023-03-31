@@ -1,0 +1,131 @@
+.profile-head {
+    width: 100%;
+    height: 100px;
+    background-color: #ffffff;
+    padding: 16px;
+}
+.first-title {
+    font-size: 20px;
+    color: #6A6A68;
+    margin-left: 80px;
+}
+.sec-title {
+    font-size: 18px;
+    color: #637E88;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.profile-sections {
+    display: flex;
+}
+
+.person-info {
+    background-color: #fff;
+    margin-top: 40px;
+    margin-left: 80px;
+    width: 500px;
+    height: 700px;
+    border-radius: 10px;
+}
+.piradi-info {
+    border-bottom: 3px solid;
+    border-color: #EC5257;
+}
+.person-info-categorys {
+    align-items: center;
+    display: flex;
+    margin-left: 30px;
+    gap: 10px;
+    padding-top: 50px;
+    
+}
+.person-info-categorys > p {
+    font-size: 20px;
+    color: #7D8078;
+    cursor: pointer;
+}
+.icons{
+    opacity: 50%;
+    width: 30px;
+    height: 30px;
+}
+.profile-form {
+    width: 700px;
+    height: 700px;
+    background-color: #fff;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.profile-form > h2 {
+    font-size: 24px;
+    color: #7D8078;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-weight: 600;
+    opacity: 90%;
+}
+.profileImg {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    gap: 20px;
+}
+.profileImg > p {
+    border-bottom: 1px solid;
+    font-size: 18px;
+    color: #7D8078;
+    cursor: pointer;
+}
+
+form {
+    margin-left: 30px;
+    margin-top: 60px;
+}
+form > input {
+    width: 600px;
+    height: 40px;
+    margin-bottom: 30px;
+    border: 1px solid;
+    border-color: #707070A6;
+    border-radius: 5px;
+    background-color: #F9F9F9;
+}
+
+form > p {
+    color: #7D8078;
+    font-size: 18px;
+}
+
+.grafiki {
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+    margin-left: 80px;
+    color: #7D8078;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.clock{
+    width: 22px;
+    height: 22px;
+}
+.clock-day {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #7D8078;
+}
+.shabat-kvira {
+    margin-left: 27px;
+    color: #7D8078;
+}
+.call {
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+}
+.call-icon {
+    width: 20px;
+    height: 20px;
+}
